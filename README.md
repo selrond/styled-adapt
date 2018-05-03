@@ -1,6 +1,8 @@
 # styled-adapt
 Dead simple media queries for styled-components
 
+`npm install styled-adapt`
+
 ## Examples:
 
 ### Mobile-first approach
