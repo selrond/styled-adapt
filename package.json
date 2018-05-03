@@ -1,0 +1,29 @@
+{
+  "name": "styled-adapt",
+  "version": "1.0.0",
+  "description": "Dead simple media queries for styled-components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://selrond@github.com/selrond/styled-adapt.git"
+  },
+  "keywords": [
+    "css",
+    "responsive",
+    "media-queries",
+    "react",
+    "styled-components"
+  ],
+  "author": "Sebastian Andil <sebastian.andil@gmail.com> (https://twitter.com/selrond)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/selrond/styled-adapt/issues"
+  },
+  "homepage": "https://github.com/selrond/styled-adapt#readme",
+  "dependencies": {
+    "styled-components": "^3.2.6"
+  }
+}
